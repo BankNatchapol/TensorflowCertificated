@@ -1,0 +1,5 @@
+1. ssh -i "D:\_KEY\UBUNTUAI_key.pem" -L 8888:localhost:8888 banknatchapol@52.188.55.181
+(ถ้าไม่มี env ใน kernel ให้เปลี่ยน env ไปเป็นอันที่ต้องการ (py37_tensorflow) แล้วใช้ python -m ipykernel install --user --name=<ชื่อ kernel ที่จะตั้ง>)
+2. jupyter notebook --no-browser
+3. copy url ไปใส่ไว้ที่ setting -> jupyter server -> Configured Server
+จบ

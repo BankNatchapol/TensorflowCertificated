@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c7babd68-c84c-4cc2-8c57-ed447fbe8ec2" name="UBUNTUAI">
+        <fileTransfer accessType="SFTP" host="52.188.55.181" port="22" sshConfigId="a21f1e35-bb08-4fe7-840d-26b7b1ac5940" sshConfig="banknatchapol@52.188.55.181:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
