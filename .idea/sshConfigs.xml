@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="52.188.55.181" id="a21f1e35-bb08-4fe7-840d-26b7b1ac5940" keyPath="D:\_KEY\UBUNTUAI_key.pem" port="22" nameFormat="DESCRIPTIVE" username="banknatchapol" />
+    </configs>
+  </component>
+</project>
